@@ -328,7 +328,7 @@ Example request body:
 
 ```JSON
 {
-	"payment_method_types:: "card",
+	"payment_method_types": "card",
 	"success_url": "localhost:3000/bookings/me",
     "cancel_url": "{origin}/room/${room._id}",
     "customer_email": "test@test.com",
