@@ -11,11 +11,11 @@
 
 </div>
 
-## ?? About <a name = "about"></a>
+## About <a name = "about"></a>
 
 A hotel booking app built react and node fullstack app using Next.js on React as the frontend, users can book rooms and pay with their credit cards, manage their bookings, download booking details as pdf and much more.
 
-## ?? Documentation <a name = "documentation"></a>
+## Documentation <a name = "documentation"></a>
 
 ### JSON Objects returned by API:
 
